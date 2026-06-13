@@ -1,0 +1,22 @@
+{
+  "root": "card_main",
+  "state": {},
+  "elements": {
+    "card_main": {
+      "type": "Card",
+      "props": {
+        "title": "New Article Published"
+      },
+      "children": [
+        "story_link"
+      ]
+    },
+    "story_link": {
+      "type": "StoryLink",
+      "props": {
+        "title": "The Bet That Broke: What Consciousness Research Got Wrong for 25 Years",
+        "href": "https://github.com/aeonframework/aeon/blob/main/articles/2026-06-13b.md"
+      }
+    }
+  }
+}
