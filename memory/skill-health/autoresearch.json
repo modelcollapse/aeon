@@ -1,0 +1,17 @@
+{
+  "skill": "autoresearch",
+  "last_analyzed": "2026-06-13T19:59:24Z",
+  "quality_score": 2,
+  "assessment": "Ran but produced only an interactive prompt asking for skill selection; autonomous agent should be self-directed, not waiting for user input",
+  "flags": [
+    "low_quality",
+    "empty_output"
+  ],
+  "avg_score": 2,
+  "history": [
+    {
+      "date": "2026-06-13",
+      "score": 2
+    }
+  ]
+}
