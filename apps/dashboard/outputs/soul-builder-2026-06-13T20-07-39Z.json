@@ -1,0 +1,222 @@
+{
+  "root": "card_soul_builder",
+  "state": {},
+  "elements": {
+    "card_soul_builder": {
+      "type": "Card",
+      "props": {
+        "title": "soul-builder",
+        "description": "Soul profile built — Bryan Abdul Collins (@poetic_state)"
+      },
+      "children": [
+        "stack_main"
+      ]
+    },
+    "stack_main": {
+      "type": "Stack",
+      "props": {
+        "direction": "vertical",
+        "gap": "md"
+      },
+      "children": [
+        "identity_section",
+        "sep1",
+        "sources_section",
+        "sep2",
+        "files_section",
+        "sep3",
+        "distinctive_section",
+        "sep4",
+        "action_section"
+      ]
+    },
+    "identity_section": {
+      "type": "Stack",
+      "props": {
+        "direction": "vertical",
+        "gap": "sm"
+      },
+      "children": [
+        "text_handle",
+        "text_identity_main",
+        "badges_identity"
+      ]
+    },
+    "text_handle": {
+      "type": "Text",
+      "props": {
+        "text": "Bryan Abdul Collins (@poetic_state)",
+        "variant": "lead"
+      }
+    },
+    "text_identity_main": {
+      "type": "Text",
+      "props": {
+        "text": "ICF PCC-credentialed Creative Coach & Catalyst running Poetic State (Atlanta) — 25+ years in design & branding, coaches creative professionals at inflection points, ambient musician (Model Collapse)"
+      }
+    },
+    "badges_identity": {
+      "type": "Stack",
+      "props": {
+        "direction": "horizontal",
+        "gap": "sm"
+      },
+      "children": [
+        "badge_icp",
+        "badge_coach",
+        "badge_designer",
+        "badge_musician"
+      ]
+    },
+    "badge_icp": {
+      "type": "Badge",
+      "props": {
+        "text": "ICF PCC",
+        "variant": "default"
+      }
+    },
+    "badge_coach": {
+      "type": "Badge",
+      "props": {
+        "text": "Creative Coach",
+        "variant": "default"
+      }
+    },
+    "badge_designer": {
+      "type": "Badge",
+      "props": {
+        "text": "Design & Branding",
+        "variant": "default"
+      }
+    },
+    "badge_musician": {
+      "type": "Badge",
+      "props": {
+        "text": "Ambient Musician",
+        "variant": "default"
+      }
+    },
+    "sep1": {
+      "type": "Separator",
+      "props": {
+        "orientation": "horizontal"
+      }
+    },
+    "sources_section": {
+      "type": "Stack",
+      "props": {
+        "direction": "vertical",
+        "gap": "sm"
+      },
+      "children": [
+        "heading_sources",
+        "text_sources_links",
+        "text_sources_web"
+      ]
+    },
+    "heading_sources": {
+      "type": "Heading",
+      "props": {
+        "text": "Sources",
+        "level": "h2"
+      }
+    },
+    "text_sources_links": {
+      "type": "Text",
+      "props": {
+        "text": "Links: LinkedIn (login-walled → LINKEDIN_THIN)"
+      }
+    },
+    "text_sources_web": {
+      "type": "Text",
+      "props": {
+        "text": "Web search: Graphic Artists Guild, LinkedIn Pulse, Graphic Support Group podcast, Commune ATL events"
+      }
+    },
+    "sep2": {
+      "type": "Separator",
+      "props": {
+        "orientation": "horizontal"
+      }
+    },
+    "files_section": {
+      "type": "Stack",
+      "props": {
+        "direction": "vertical",
+        "gap": "sm"
+      },
+      "children": [
+        "heading_files",
+        "text_files"
+      ]
+    },
+    "heading_files": {
+      "type": "Heading",
+      "props": {
+        "text": "Files",
+        "level": "h2"
+      }
+    },
+    "text_files": {
+      "type": "Text",
+      "props": {
+        "text": "soul/SOUL.md, soul/STYLE.md, soul/examples/good-outputs.md"
+      }
+    },
+    "sep3": {
+      "type": "Separator",
+      "props": {
+        "orientation": "horizontal"
+      }
+    },
+    "distinctive_section": {
+      "type": "Stack",
+      "props": {
+        "direction": "vertical",
+        "gap": "sm"
+      },
+      "children": [
+        "heading_distinctive",
+        "alert_distinctive"
+      ]
+    },
+    "heading_distinctive": {
+      "type": "Heading",
+      "props": {
+        "text": "Most Distinctive Trait",
+        "level": "h2"
+      }
+    },
+    "alert_distinctive": {
+      "type": "Alert",
+      "props": {
+        "title": "CV Ghost Thesis",
+        "message": "Treats narrative reframing as a design skill — unresolved grievances live rent-free in your career story without you noticing. Grounded, unhurried; tools-come-and-go perspective runs through everything.",
+        "type": "info"
+      }
+    },
+    "sep4": {
+      "type": "Separator",
+      "props": {
+        "orientation": "horizontal"
+      }
+    },
+    "action_section": {
+      "type": "Stack",
+      "props": {
+        "direction": "vertical",
+        "gap": "sm"
+      },
+      "children": [
+        "text_action"
+      ]
+    },
+    "text_action": {
+      "type": "Text",
+      "props": {
+        "text": "Review + edit in the dashboard Soul tab, then Pull to refresh.",
+        "variant": "muted"
+      }
+    }
+  }
+}

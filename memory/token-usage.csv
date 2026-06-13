@@ -1,2 +1,3 @@
 date,skill,model,input_tokens,output_tokens,cache_read,cache_creation
-2026-06-13,article,claude-sonnet-4-6,21,5349,522230,19982
+2026-06-13,autoresearch,claude-sonnet-4-6,4,755,74854,12398
+2026-06-13,soul-builder,claude-sonnet-4-6,1701,12540,1158778,41542
