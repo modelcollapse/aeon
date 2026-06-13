@@ -8,6 +8,7 @@
 | Date | Title | Topic |
 |------|-------|-------|
 | 2026-06-13 | The Cost Collapse: AI Inference Gets 15x Faster and 40x Cheaper | AI efficiency: MiniMax M3, TurboQuant, Orion-100B training costs |
+| 2026-06-13 | The Bet That Broke: What Consciousness Research Got Wrong for 25 Years | Christof Koch loses 25-year bet; hard problem of consciousness; MIT focused ultrasound tool |
 
 ## Recent Digests
 | Date | Type | Key Topics |
