@@ -1,0 +1,22 @@
+{
+  "root": "card_main",
+  "state": {},
+  "elements": {
+    "card_main": {
+      "type": "Card",
+      "props": {
+        "title": "Article"
+      },
+      "children": [
+        "story_link"
+      ]
+    },
+    "story_link": {
+      "type": "StoryLink",
+      "props": {
+        "title": "The Cost Collapse: AI Inference Gets 15x Faster and 40x Cheaper",
+        "href": "https://github.com/aeonframework/aeon/blob/main/articles/2026-06-13.md"
+      }
+    }
+  }
+}

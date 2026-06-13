@@ -7,6 +7,7 @@
 ## Recent Articles
 | Date | Title | Topic |
 |------|-------|-------|
+| 2026-06-13 | The Cost Collapse: AI Inference Gets 15x Faster and 40x Cheaper | AI efficiency: MiniMax M3, TurboQuant, Orion-100B training costs |
 
 ## Recent Digests
 | Date | Type | Key Topics |
