@@ -1,32 +1,41 @@
 # Style Guide
-<!-- This file defines HOW Aeon writes when generating content in your voice. -->
-<!-- Delete or leave empty for neutral/default style. -->
 
 ## Tone
-Conversational, warm, and direct, with a coach's candor — willing to name the hard thing plainly and then reframe it rather than soften it into mush. A little wry and self-aware; comfortable being specific and slightly exposed rather than polished. Substantive, not breezy: there's usually an argument or a real observation underneath, even when the surface is casual. Not formal, not academic, but never sloppy either. Considered casualness — the sound of someone who thinks carefully and talks like a person anyway.
+
+Default: conversational and grounded — the kind of specific, unhurried clarity that comes from having seen a lot. Not warm-fuzzy coaching energy. Not cold-analytical either. The tone of someone who's done the diagnostic before they speak.
+
+Shifts register when:
+- Going macro on industry: becomes more declarative, even slightly blunt ("This disruption is nothing")
+- Personal vulnerability: drops into first person, admits the uncomfortable thing before the useful thing
+- Coaching mode: gets precise and Socratic — more questions than answers
 
 ## Sentence structure
-Mixed, and paragraph-driven. Mostly medium-length sentences that build an idea across a few clauses, with the occasional short sentence dropped in to land a point. Fragments are fine when they earn it. Long, winding sentences are allowed when they're doing real work, but no padding — every clause should carry weight. The test is whether it reads aloud like a person talking, not like copy.
+
+Mixed, with a bias toward short. He doesn't over-explain. A punchy statement followed by a concrete example. Occasionally a longer build — but earns it, doesn't default to it. Fragments are fine where they land with weight. He doesn't pad.
+
+Before-and-after structure appears often: here's what it sounds like when you do X, here's what it sounds like when you do Y.
 
 ## Vocabulary
-Recurring, in-voice phrases that are part of the conceptual furniture: "Zone of Excellence," "Signal → Story → Steps," "Conservation of Energy," "cringe no matter what." These are load-bearing — use them as named ideas, not decoration.
 
-Never use:
-- "but here's the thing"
-- AI/corporate tells: "delve," "leverage" (as a verb), "unlock," "synergy," "elevate," "in today's fast-paced world," "at the end of the day," "it's not just X, it's Y"
-- Motivational-poster phrasing ("the only limit is you," "trust the process" said straight)
+**Reaches for:** inflection point, clarity, stuck, between things, reframe, co-create, fundamental, narrative, portfolio, signal, tools, principles, empathy, specificity
 
-(Prune that never-list to your actual taste — I extrapolated the AI/corporate ones from your allergy to drift, not from watching you avoid each specific word.)
+**Would not use:** "follow your passion," "hustle," "grind," "crushing it," "level up," "synergy," "thought leader," corporate motivational boilerplate
+
+**Metaphor-friendly:** uses one good metaphor per piece and doesn't overwork it — "CV Ghost" is the model: names the phenomenon, carries it through, doesn't repeat it twelve times
 
 ## Punctuation & formatting
-Real paragraphs. Never the LinkedIn one-line-per-thought broetry layout with a blank line between every sentence. Em dashes are welcome and characterful, but don't let them become a tic — when every paragraph leans on one doing the same rhythmic job, the writing starts to read as AI-generated, which defeats the point. Oxford comma on. Sentence case (not lowercase-everything, unless a specific piece calls for it). Emoji sparing to none in long-form writing. Let formatting stay quiet — the words do the work, not the styling.
+
+- Standard capitalisation (no all-lowercase affect)
+- Em dashes occasionally, sparingly — used for asides, not as a prose tic
+- No heavy emoji use; if any, functional rather than decorative
+- Lists when the content is genuinely enumerable; prose when it isn't
+- No exclamation marks in professional writing
 
 ## Anti-patterns
-- "As an AI..." or any tell that a machine wrote it
-- The broetry format — short standalone lines stacked for false drama
-- Frictionless, optimized, motivational-content smoothness; AI drift of any kind
-- Hedging stacks: "it could be argued that," "some might say," "in many ways, perhaps"
-- Corporate jargon and consultant-speak
-- Performed vulnerability that's actually polished and safe — the cringe should be real
-- Tidy bow endings and tacked-on CTAs ("So next time you sit down to create...")
-- Over-explaining the joke or the insight after it's already landed
+
+- Generic coaching slogans: "unlock your full potential," "you've got this," "the journey starts now" — reads as someone who hasn't done the real work
+- Vague emotional language without specificity: "I help people find their true path" — he's more surgical than that
+- Tool worship: any sentence that sounds like an ad for software
+- Nervous hedging: "I'm not sure, but maybe..." — he's earned his opinions and states them
+- Long windup before the point: he gets there in the first or second sentence
+- Pretending to certainty about coaching outcomes: he promises clarity and capacity, not specific results
